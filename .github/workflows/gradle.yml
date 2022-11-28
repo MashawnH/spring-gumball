@@ -32,3 +32,8 @@ jobs:
       uses: gradle/gradle-build-action@67421db6bd0bf253fb4bd25b31ebb98943c375e1
       with:
         arguments: build
+    - name: Upload a build artifact
+      uses: actions/upload-artifact@2.2.3
+      with:
+        name: spring-gumball
+        path: build/livs/spring-gumball-2.0.jar
