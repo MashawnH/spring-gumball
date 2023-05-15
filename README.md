@@ -14,4 +14,8 @@
 Invoking CI
 ![image](https://github.com/MashawnH/spring-gumball/assets/37811879/eab5e069-ad96-4817-8180-9d68f250a4f4)
 
+Build success after invoking CI
+![image](https://github.com/MashawnH/spring-gumball/assets/37811879/59137826-f754-47f5-8160-83f52dcd5f25)
+
+
 
